@@ -31,7 +31,7 @@ jobs:
           cache: true
 
       - name: Build MkDocs site
-        run: mkdocs build --strict
+        run: pixi run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
