@@ -3,21 +3,31 @@ site_description: Course material for S3 School 2026 sessions
 site_author: S3 School
 theme:
   name: material
+  features:
+    - navigation.expand
+    - navigation.sections
 nav:
   - Home: index.md
-  - 1.0 Introduction & welcome: 1.0-introduction/main.md
-  - 1.1 Open & reproducible science: 1.1-open-and-reproducible-science/main.md
-  - 2.1 Coding environment: 2.1-coding-environment/main.md
-  - 2.2 Git & GitHub basics: 2.2-git-and-github/main.md
-  - 3.1 Debugging & unit tests: 3.1-debugging-and-unit-tests/main.md
-  - 3.2 Integration tests & CI/CD: 3.2-integration-tests-ci-cd/main.md
-  - 4.1 Profiling & optimizing: 4.1-profile-optimize/main.md
-  - 4.2 AI-assisted development: 4.2-ai-assisted-development/main.md
-  - 5.1 Containerization intro: 5.1-containerization/main.md
-  - 5.2 Security basics: 5.2-security/main.md
-  - 5.3 Documentation & CI deploy: 5.3-documentation/main.md
-  - 6.1 Software quality tools: 6.1-quality-tools/main.md
-  - 6.2 Publication - Metadata, Zenodo & SWH: 6.2-publication/main.md
+  - Day 1:
+    - 1.0 Introduction & welcome: 1.0-introduction/main.md
+    - 1.1 Open & reproducible science: 1.1-open-and-reproducible-science/main.md
+  - Day 2:
+    - 2.1 Coding environment: 2.1-coding-environment/main.md
+    - 2.2 Git & GitHub basics: 2.2-git-and-github/main.md
+  - Day 3:
+    - 3.1 Debugging & unit tests: 3.1-debugging-and-unit-tests/main.md
+    - 3.2 Integration tests & CI/CD: 3.2-integration-tests-ci-cd/main.md
+  - Day 4:
+    - 4.1 Profiling & optimizing: 4.1-profile-optimize/main.md
+    - 4.2 AI-assisted development: 4.2-ai-assisted-development/main.md
+  - Day 5:
+    - 5.1 Containerization intro: 5.1-containerization/main.md
+    - 5.2 Security basics: 5.2-security/main.md
+    - 5.3 Documentation & CI deploy: 5.3-documentation/main.md
+  - Day 6:
+    - 6.1 Software quality tools: 6.1-quality-tools/main.md
+    - 6.2 Publication - Metadata, Zenodo & SWH: 6.2-publication/main.md
+  - Code of Conduct: code_of_conduct.md
 markdown_extensions:
   - toc:
       permalink: true

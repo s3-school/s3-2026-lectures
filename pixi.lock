@@ -773,7 +773,7 @@ packages:
 - pypi: ./
   name: s3-2026-lectures
   version: 0.1.0
-  sha256: 4a154ef57134b5417f151981d7c1f43e0ccd79630c96f3b036538583a54d6422
+  sha256: bd45a78c573851adf82d0e5988fc787465809a7b2f560979d66ae926a61cf3b4
   requires_python: '>=3.10'
   editable: true
 - pypi: https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl
