@@ -1,0 +1,11 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0 -- /home/maxnoe/s3-school/s3-school-2026-tests/examples/.pixi/envs/default/bin/python3.14
+cachedir: .pytest_cache
+rootdir: /home/maxnoe/s3-school/s3-school-2026-tests/examples
+configfile: pyproject.toml
+plugins: cov-7.0.0
+collecting ... collected 1 item
+
+step1/test_fibonacci1.py::test_fibonacci PASSED
+
+============================== 1 passed in 0.01s ===============================
