@@ -7,5 +7,3 @@ Teachers: Vincent Pollet
 
 ## Resources
 - slides:
-
-
