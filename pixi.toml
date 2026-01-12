@@ -1,0 +1,18 @@
+[workspace]
+authors = [
+    "Vincent Pollet <vincent.pollet@lapp.in2p3.fr>",
+    "VUILLAUME Thomas <thomas.vuillaume@lapp.in2p3.fr>"
+]
+channels = ["conda-forge"]
+description = "Lectures material for the S3 School 2026"
+name = "s3-2026-lectures"
+platforms = ["linux-64", "osx-arm64", "osx-64"]
+version = "0.1.0"
+
+[tasks]
+build = "mkdocs build"
+serve = "mkdocs serve"
+
+[dependencies]
+mkdocs = ">=1.6.1,<2"
+mkdocs-material = ">=9.7.1,<10"
