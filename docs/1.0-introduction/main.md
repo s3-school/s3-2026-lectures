@@ -22,6 +22,6 @@ Teachers: Romain David, Thomas Vuillaume, Azza Gamgami
 
 ### EVERSE 
 
-<iframe src="https://indico.in2p3.fr/event/36319/contributions/161821/attachments/99169/152994/20260114_S3_school_EVERSE_Overview.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://indico.in2p3.fr/event/36319/contributions/161821/attachments/99169/153000/s3_school_2026_everse.pdf" width="100%" height="600px"></iframe>
 
-[Download the slides](https://indico.in2p3.fr/event/36319/contributions/161821/attachments/99169/152994/20260114_S3_school_EVERSE_Overview.pdf)
+[Download the slides](https://indico.in2p3.fr/event/36319/contributions/161821/attachments/99169/153000/s3_school_2026_everse.pdf)
