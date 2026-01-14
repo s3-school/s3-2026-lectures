@@ -5,8 +5,8 @@ repo_url: https://github.com/s3-school/s3-2026-lectures/
 site_author: S3 School
 theme:
   name: material
-  logo: assests/img/S3-school_LOGO_square.png
-  favicon: assests/img/S3-school_LOGO_square.png
+  logo: assests/img/S3-school_favicon.png
+  favicon: assests/img/S3-school_favicon.png
   palette:
     - scheme: default
       primary: light blue
