@@ -1,6 +1,6 @@
 # Day 1 - Introduction & welcome
 
-Teachers: Romain David, Thomas Vuillaume
+Teachers: Romain David, Thomas Vuillaume, Azza Gamgami
 
 ## Overview
 - Registration, orientation, planning overview
@@ -10,4 +10,4 @@ Teachers: Romain David, Thomas Vuillaume
 
 
 ## Resources
-- slides:
+- [Welcome Address slides](https://docs.google.com/presentation/d/16XB_6wZ2UOUFIcrxyVnxpEhnsGT0c8ifBJcukXtnOqg/edit?usp=sharing)

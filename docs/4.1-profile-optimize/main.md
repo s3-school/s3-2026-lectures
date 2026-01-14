@@ -7,4 +7,6 @@ Teachers: Karl Kosack
 - Code Optimization and Acceleration
 
 ## Resources
-- slides:
+- slides: 
+  - [Profiling (indico)](https://indico.in2p3.fr/event/36319/contributions/167438/)
+  - [Optimization (indico)](https://indico.in2p3.fr/event/36319/contributions/167438/)

@@ -12,6 +12,7 @@
 
 **Day 3**
 - [Debugging & unit tests](3.1-debugging-and-unit-tests/)
+    -  Additional example files can be found [in the repository](https://github.com/s3-school/s3-2026-lectures/tree/main/testing)
 - [Integration tests & CI/CD](3.2-integration-tests-ci-cd/)
 
 **Day 4**

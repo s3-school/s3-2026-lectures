@@ -1,6 +1,6 @@
 # Day 1 - Open & reproducible science
 
-Teacher: Cécile Acary Robert
+Teacher: Céline Acary Robert
 
 ## Overview
 - Why good research software quality matters

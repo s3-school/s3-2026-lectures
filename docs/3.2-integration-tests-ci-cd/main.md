@@ -6,4 +6,4 @@ Teachers: Karl Kosack
 - Integration testing and continuous integration/delivery
 
 ## Resources
-- slides:
+- Slides: [Indico](https://indico.in2p3.fr/event/36319/contributions/167437/)
