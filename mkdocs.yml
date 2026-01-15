@@ -33,6 +33,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Participants survey: survey/analysis.html
   - Day 1:
     - 1.0 Introduction & welcome: 1.0-introduction/main.md
     - 1.1 Open & reproducible science: 1.1-open-and-reproducible-science/main.md
