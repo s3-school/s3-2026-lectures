@@ -13,6 +13,7 @@ Ensure the following tools are installed on your machine:
 - Pixi: [Installation Instructions](https://pixi.prefix.dev/dev/installation/)
 - Podman: [Installation Instructions](https://podman.io/docs/installation)
 - Apptainer: [Installation Instruction](https://apptainer.org/docs/admin/main/installation.html)
+- an IDE. We recommend [VSCode](https://code.visualstudio.com/download) but other options are perfectly fine.
 
 ## GitHub account  
 
