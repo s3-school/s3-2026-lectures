@@ -19,3 +19,10 @@ jupyter nbconvert --clear-output --inplace notebook.ipynb
 
 You may also use [reviewNb](https://www.reviewnb.com/) for pull request reviews.
 
+
+## YAML and GitHub action linter
+
+To validate your yaml file before pushing it into production and trying to debug with github error messages, there are third party tools that can do that for you:
+- actionlint - https://github.com/rhysd/actionlintyamlls 
+- https://github.com/redhat-developer/yaml-language-server
+    - it also has a nice VSCode extension (and probably for other IDE) that will auto detect errors
