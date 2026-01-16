@@ -45,9 +45,9 @@ git rebase --continue
 ```
 
 #### 6. **Push Changes to Your Fork**
-Push the updated branch to your fork (`vuillaut`):
+Push the updated branch to your fork (`<usernam>`):
 ```bash
-git push --force vuillaut main
+git push --force <username> main
 ```
 
 ---
