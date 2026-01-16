@@ -59,6 +59,7 @@ nav:
   - Day 6:
     - 6.1 Software quality tools: 6.1-quality-tools/main.md
     - 6.2 Publication - Metadata, Zenodo & SWH: 6.2-publication/main.md
+  - Day 7: 7.1-extra/main.md
   - Code of Conduct: code_of_conduct.md
 
 markdown_extensions:
