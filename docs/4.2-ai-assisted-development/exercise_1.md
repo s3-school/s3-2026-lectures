@@ -1,6 +1,6 @@
 # Exercise 1: Code Understanding with AI
 Open a web browser and choose an AI chat (ChatGPT, Claude, Le Chat) and try the
-prompt templates below with the `main.py` of the pkoffee project.
+prompt templates below with the `main.py` (https://github.com/s3-school/pkoffee/blob/Day0/main.py) of the pkoffee project.
 
 ### PROMPT 1
 ```

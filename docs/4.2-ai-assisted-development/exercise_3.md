@@ -1,6 +1,5 @@
 # Exercise 3: Code Improvement
-Try the
-prompt templates below with the original `main.py` of the pkoffee project.
+Try the prompt templates below with the original `main.py` (https://github.com/s3-school/pkoffee/blob/Day0/main.py) of the pkoffee project.
 
 ### PROMPT 1
 ```
