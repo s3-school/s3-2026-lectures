@@ -11,9 +11,11 @@ Teachers: Hugo Bacard
 - Vibe Coding
 
 ## Resources
-## Slides 
-- Slides [Indico](https://indico.in2p3.fr/event/36319/sessions/24611/attachments/99252/153150/Code_with_ai.pdf)
-### Exercises
+
+<iframe src="https://indico.in2p3.fr/event/36319/sessions/24611/attachments/99252/153150/Code_with_ai.pdf" width="100%" height="600px"></iframe>
+
+[Download the slides](https://indico.in2p3.fr/event/36319/sessions/24611/attachments/99252/153150/Code_with_ai.pdf)
+
 - [Exercise 1: Code Understanding with AI](exercise_1.md)
 - [Exercise 2: Code Debugging](exercise_2.md)
 - [Exercise 3: Code Improvement](exercise_3.md)
@@ -24,5 +26,4 @@ Teachers: Hugo Bacard
 - [Exercise 8: Security](exercise_8.md)
 - [Exercise 9: Implement a simple Retriever](exercise_9.md)
 - [Exercise 10: Vibe Coding](exercise_10.md)
-
 
