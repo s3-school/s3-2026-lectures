@@ -1,0 +1,33 @@
+[workspace]
+authors = ["Karl Kosack <karl.kosack@cea.fr>"]
+channels = ["conda-forge"]
+name = "optimization-example"
+platforms = ["osx-64", "osx-arm64", "linux-64", "win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ipykernel = ">=7.1.0,<8"
+numba = ">=0.63.1,<0.64"
+numpy = ">=2.3.5,<3"
+matplotlib = ">=3.10.8,<4"
+line_profiler = ">=5.0.0,<6"
+snakeviz = ">=2.2.2,<3"
+scipy = ">=1.17.0,<2"
+python = "3.11.*"
+jupyterlab = ">=4.5.2,<5"
+
+## The memory profiling tools don't work on Windows, so we add them only for
+## supported platforms:
+[target.osx-64.dependencies]
+memory_profiler = ">=0.61.0,<0.62"
+memray = ">=1.19.1,<2"
+
+[target.osx-arm64.dependencies]
+memory_profiler = ">=0.61.0,<0.62"
+memray = ">=1.19.1,<2"
+
+[target.linux-64.dependencies]
+memory_profiler = ">=0.61.0,<0.62"
+memray = ">=1.19.1,<2"

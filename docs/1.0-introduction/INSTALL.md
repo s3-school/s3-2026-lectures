@@ -18,3 +18,22 @@ Ensure the following tools are installed on your machine:
 ## GitHub account  
 
 Please create a GitHub account before the school
+
+## Get the lectures material and code
+
+To retrieve the `pkoffee` project:
+
+1. Go to https://github.com/s3-school/pkoffee
+2. Fork it 
+3. Clone your fork :
+```
+cd /path/to/working/directory
+git clone git@github.com:<your-github-username>/pkoffee.git
+```
+
+To retrieve the lectures material and exercises:
+
+```
+cd /path/to/working/directory
+git clone https://github.com/s3-school/s3-2026-lectures.git
+```
