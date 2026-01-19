@@ -54,3 +54,10 @@ In our case, it builds the environment thanks to the `Dockerfile` as pixi is too
 ### Resources
 - [MyBinder Documentation](https://mybinder.org/)
 - [Example Gallery](https://mybinder.org/examples)
+
+
+## Matplotlib for publication 
+
+In previous editions of the school, Maximilian Linhoff and Tamas Gal hosted a lecture dedicated to generating publication ready plots that can be directly included into latex.
+
+You may access it here: [matplotib for publication lecture](https://escape2020.github.io/school2021/posts/clase10/#matplotlib-for-publications)
