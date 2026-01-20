@@ -10,15 +10,7 @@ Teachers: Karl Kosack
 
 ### Slides:
 
-#### Profiling:
-
-To download them:
-- [Profiling (indico)](https://indico.in2p3.fr/event/36319/contributions/167438/)
-- [Optimization (indico)](https://indico.in2p3.fr/event/36319/contributions/167438/)
-
-<iframe src="https://indico.in2p3.fr/event/36319/contributions/167438/attachments/99243/153147/s3-2026-kosack-profiling-optimization-v3.pdf" width="100%" height="600px"></iframe>
-
-<iframe src="https://indico.in2p3.fr/event/36319/contributions/167438/attachments/99243/153147/s3-2026-kosack-profiling-optimization-v3.pdf" width="100%" height="600px"></iframe>
+{{ pdf_iframe("https://indico.in2p3.fr/event/36319/contributions/167438/attachments/99243/153147/s3-2026-kosack-profiling-optimization-v3.pdf") }}
 
 
 ### Demos:
