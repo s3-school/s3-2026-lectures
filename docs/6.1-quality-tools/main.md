@@ -7,3 +7,5 @@ Teachers: Thomas Vuillaume
 
 ## Resources
 - slides:
+
+https://vuillaut.github.io/lectures/quality_tools
