@@ -24,6 +24,6 @@ This presentation provides a practical roadmap for maintaining security in acade
 
 ## Resources
 
-{{ pdf_iframe("https://indico.in2p3.fr/event/36319/sessions/24612/attachments/99291/153242/S3%20Annecy%202026_Security.pdf") }}
+{{ pdf_iframe("https://indico.in2p3.fr/event/36319/contributions/167823/attachments/99303/153259/S3%20Annecy%202026_Security.pdf") }}
 
 
