@@ -1,6 +1,5 @@
 # Day 7 - extra stuff
 
-
 Day 7 ? wait ! there was a day 7 ?
 
 This is the hidden section for things not covered during the school ;-)
@@ -61,3 +60,17 @@ In our case, it builds the environment thanks to the `Dockerfile` as pixi is too
 In previous editions of the school, Maximilian Linhoff and Tamas Gal hosted a lecture dedicated to generating publication ready plots that can be directly included into latex.
 
 You may access it here: [matplotib for publication lecture](https://escape2020.github.io/school2021/posts/clase10/#matplotlib-for-publications)
+
+
+## devcontainer
+
+**For advanced users**
+
+A more advanced point not covered in the lectures but worth mentioning.
+Once you get to work with docker containers for your analysis, you can integrate them into your development workflow to always develop in an environment similar to the production one, which improves reproducibility, maintainability...
+
+If you use VSCode, you can use the [devcontainer extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+Adding a `.devcontainer/devcontainer.json` in your repository, VSCode will ask you if you want to restart in the docker container.
+
+See documentation here: https://code.visualstudio.com/docs/devcontainers/create-dev-container
