@@ -31,3 +31,27 @@ def define_env(env):
 <a href="{url}" target="_blank">Open in Fullscreen Mode</a>
 
 """
+
+    @env.macro
+    def youtube_iframe(video_id, height="600px"):
+        """
+        Embed a YouTube video with an iframe.
+
+        Args:
+            video_id: The YouTube video ID (the part after ?v= in the URL)
+            height: Height of the iframe (default: 600px)
+
+        Usage:
+            {{ youtube_iframe("dQw4w9WgXcQ") }}
+            {{ youtube_iframe("dQw4w9WgXcQ", height="600px") }}
+        """
+        return f"""
+<iframe width="100%" 
+        height="{height}" 
+        src="https://www.youtube.com/embed/{video_id}" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+"""
