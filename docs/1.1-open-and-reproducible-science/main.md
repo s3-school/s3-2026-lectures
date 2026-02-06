@@ -10,3 +10,5 @@ This talk explores the essential transition from "black box" scripts to transpar
 ## Resources
 
 {{ pdf_iframe("https://indico.in2p3.fr/event/36319/contributions/161823/attachments/99166/152991/SO_Repro_CAR.pdf") }}
+
+{{ youtube_iframe("tb49WygsmG4") }}
