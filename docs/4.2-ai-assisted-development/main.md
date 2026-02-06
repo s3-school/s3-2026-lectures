@@ -16,6 +16,11 @@ Teachers: Hugo Bacard
 
 [Download the slides](https://indico.in2p3.fr/event/36319/sessions/24611/attachments/99252/153150/Code_with_ai.pdf)
 
+{{ youtube_iframe("4Wjj-DqI3fI") }}
+
+{{ youtube_iframe("sOEs4pexgtI") }}
+
+
 - [Exercise 1: Code Understanding with AI](exercise_1.md)
 - [Exercise 2: Code Debugging](exercise_2.md)
 - [Exercise 3: Code Improvement](exercise_3.md)
