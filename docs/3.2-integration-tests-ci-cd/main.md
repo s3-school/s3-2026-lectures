@@ -17,5 +17,7 @@ The session focuses on transitioning from manual debugging and local testing to 
 
 {{ pdf_iframe("https://indico.in2p3.fr/event/36319/contributions/167437/attachments/99122/153080/s3-2026-kosack-ci-cd-v3.pdf") }}
 
+{{ youtube_iframe("zwn3K9ZOX1U") }}
+
 
 
