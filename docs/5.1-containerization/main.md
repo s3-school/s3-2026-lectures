@@ -7,7 +7,7 @@ Teachers: Alexander Moreno
 
 ## Resources
 
-{{ pdf_iframe("https://indico.in2p3.fr/event/36319/sessions/24612/attachments/99291/153258/S3_Containers.pdf") }}
+{{ pdf_iframe("https://indico.in2p3.fr/event/36319/sessions/24612/attachments/99291/154542/S3_Containers%20(1).pdf") }}
 
 {{ youtube_iframe("zekpBjvHynk") }}
 
