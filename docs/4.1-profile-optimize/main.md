@@ -12,7 +12,12 @@ Teachers: Karl Kosack
 
 {{ pdf_iframe("https://indico.in2p3.fr/event/36319/contributions/167438/attachments/99243/153147/s3-2026-kosack-profiling-optimization-v3.pdf") }}
 
+
+### Profiling session
+
 {{ youtube_iframe("PSEgElGsAZE") }}
+
+### Optimization session
 
 {{ youtube_iframe("lEV75a4jSA8") }}
 

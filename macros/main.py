@@ -33,25 +33,28 @@ def define_env(env):
 """
 
     @env.macro
-    def youtube_iframe(video_id, height="600px"):
+    def youtube_iframe(video_id, max_width="800px"):
         """
-        Embed a YouTube video with an iframe.
+        Embed a YouTube video with an iframe that maintains 16:9 aspect ratio.
 
         Args:
             video_id: The YouTube video ID (the part after ?v= in the URL)
-            height: Height of the iframe (default: 600px)
+            max_width: Maximum width of the video container (default: 800px)
 
         Usage:
             {{ youtube_iframe("dQw4w9WgXcQ") }}
-            {{ youtube_iframe("dQw4w9WgXcQ", height="600px") }}
+            {{ youtube_iframe("dQw4w9WgXcQ", max_width="1000px") }}
         """
         return f"""
-<iframe width="100%" 
-        height="{height}" 
-        src="https://www.youtube.com/embed/{video_id}" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<div style="max-width: {max_width}; margin: 0 auto;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                src="https://www.youtube.com/embed/{video_id}" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+        </iframe>
+    </div>
+</div>
 
 """
