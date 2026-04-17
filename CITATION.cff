@@ -1,0 +1,59 @@
+cff-version: 1.0.0
+message: "If you use these lecture materials, please cite them as below."
+type: software
+title: "S3 2026 Lectures"
+version: 1.0.0
+date-released: 2026-01-01
+abstract: "Lecture materials for the S3 2026 school, including slides, notebooks, and exercises."
+authors:
+  - family-names: Vuillaume
+    given-names: Thomas
+    email: thomas.vuillaume@lapp.in2p3.fr
+    orcid: https://orcid.org/0000-0002-5686-2078
+
+  - family-names: Pollet
+    given-names: Vincent
+    email: vincent.pollet@lapp.in2p3.fr
+    orcid: https://orcid.org/0009-0006-7215-9231
+
+  - family-names: Linhoff
+    given-names: Maximilian
+    orcid: https://orcid.org/0000-0001-7993-8189
+
+  - family-names: Kosack
+    given-names: Karl
+    orcid: https://orcid.org/0000-0001-8424-3621
+
+  - family-names: Moreno
+    given-names: Alexander
+    email: alexander.moreno@uan.edu.co
+    orcid: https://orcid.org/0000-0001-8415-2543
+
+  - family-names: Bacard
+    given-names: Hugo
+    email: hugo.bacard@ijclab.in2p3.fr
+    orcid: https://orcid.org/0000-0001-9216-494X
+
+  - family-names: David
+    given-names: Romain
+    email: romain.david@erinha.eu
+    orcid: https://orcid.org/0000-0003-4073-7456
+
+  - family-names: Acary-Robert
+    given-names: Céline
+    email: celine.acary-robert@univ-grenoble-alpes.fr
+    orcid: https://orcid.org/0009-0009-9053-9344
+
+  - family-names: Bussery
+    given-names: "Justin"
+    email: jbu@dsecbypass.com
+license: MIT
+repository-code: "https://github.com/s3-school/s3-2026-lectures"
+keywords:
+  - teaching
+  - lectures
+  - EVERSE
+  - OSCARS
+  - S3 School
+  - research-software
+  - quality
