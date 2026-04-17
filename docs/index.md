@@ -12,7 +12,7 @@ List of links:
 
 - GitHub organization: [https://github.com/s3-school](https://github.com/s3-school)
 
-- pkoffee project: https://github.com/s3-school/pkoffee
+- pkoffee project: [https://github.com/s3-school/pkoffee](https://github.com/s3-school/pkoffee)
 
-- pkoffee project solution: https://github.com/s3-school/pkoffee-solution 
+- pkoffee project solution: [https://github.com/s3-school/pkoffee-solution](https://github.com/s3-school/pkoffee-solution)
 
