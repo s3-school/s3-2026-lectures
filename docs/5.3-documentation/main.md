@@ -1,4 +1,4 @@
-# Day 7 - Documentation & CI deploy
+# Day 5 - Documentation & CI deploy
 
 Teachers: Alexander Moreno
 
